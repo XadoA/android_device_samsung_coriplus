@@ -1,0 +1,7 @@
+#
+# system.prop for coriplus
+#
+rild.libpath=/system/lib/libbrcm_ril.so
+#rild.libargs=-d /dev/ttyS0
+ro.sf.lcd_density=120
+ro.lcd_brightness=160
