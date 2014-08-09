@@ -22,6 +22,8 @@ service.brcm.fm.stop_snr=20
 
 ro.tvout.enable=false
 
+net.streaming.rtsp.uaprof=http://wap.samsungmobile.com/uaprof/
+
 # Multimedia property for Smart View
 media.enable-commonsource=true
 
