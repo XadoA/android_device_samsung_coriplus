@@ -14,3 +14,46 @@
 
 #dev_mount sdcard /mnt/sdcard auto /devices/platform/mmc_host/mmc2
 dev_mount sdcard /mnt/extSdCard auto /devices/platform/sdhci.0/mmc_host/mmc2
+
+
+#usb host device 
+{
+	media_type = usb
+	supported_exfat = no
+}
+dev_mount sda /mnt/UsbDriveA auto /devices/platform/otg_usb_disk_reserved
+
+#usb host device 
+{
+	media_type = usb
+	supported_exfat = no
+}
+dev_mount sdb /mnt/UsbDriveB auto /devices/platform/otg_usb_disk_reserved
+
+#usb host device 
+{
+	media_type = usb
+	supported_exfat = no
+}
+dev_mount sdc /mnt/UsbDriveC auto /devices/platform/otg_usb_disk_reserved
+
+#usb host device 
+{
+	media_type = usb
+	supported_exfat = no
+}
+dev_mount sdd /mnt/UsbDriveD auto /devices/platform/otg_usb_disk_reserved
+
+#usb host device 
+{
+	media_type = usb
+	supported_exfat = no
+}
+dev_mount sde /mnt/UsbDriveE auto /devices/platform/otg_usb_disk_reserved
+
+#usb host device 
+{
+	media_type = usb
+	supported_exfat = no
+}
+dev_mount sdf /mnt/UsbDriveF auto /devices/platform/otg_usb_disk_reserved
