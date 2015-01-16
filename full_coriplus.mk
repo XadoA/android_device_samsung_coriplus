@@ -117,7 +117,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.radio.multisim.config=dsds \
     ro.telephony.call_ring.multiple=0 \
     ro.telephony.call_ring=0 \
-    ro.config.low_ram=true \
+    
     persist.sys.force_highendgfx=true
 
 # enable Google-specific location features,
