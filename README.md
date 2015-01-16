@@ -1,4 +1,4 @@
 android_device_samsung_coriplus
 ==============================
 
-Device Tree For Samsung Galaxy Pocket plus S5301
+Device Tree For Samsung Galaxy Pocket plus S5301 Thanks to Alonso1398
